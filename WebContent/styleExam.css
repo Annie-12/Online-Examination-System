@@ -1,0 +1,35 @@
+@charset "ISO-8859-1";
+body{
+            margin: 0;
+        }
+        
+         header{
+            
+            color:darkolivegreen;
+            padding:px 0px 6px 40px;
+            height:60px;
+        }
+        header h1{
+            display:inline;
+            float:left;
+            font-family: 'Yanone Kaffeesatz', sans-serif;
+        }
+        #divide{
+        background-color:#1A5B4A;
+            height:10px;
+        }
+	 .main{
+        
+        margin-left:300px;
+        margin-top:50px;
+        width:400px;
+        }
+        
+        .right{
+        margin-left:800px;
+        }
+		.question{
+		font-size: 20px;
+		
+		
+		}
